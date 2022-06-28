@@ -3,8 +3,7 @@ layout: page
 ---
 
 ## Zápasy
-<!-- Aktuálně probíhá: 1.kolo -->
-Čekáme na první zápas :) <br>
+Aktuálně probíhá: 3. kolo <br>
 Rozpis všech zápasů najdeš [zde](/zapasy)
 
 ## Výsledky
