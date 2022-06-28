@@ -256,7 +256,18 @@ html.darkmode .prose {
   --tw-prose-invert-th-borders: #4b5563;
   --tw-prose-invert-td-borders: #374151;
 }
+html.darkmode .border-sky-600 {
+  --darkreader-border--tw-border-opacity: 1;
+  border-color: rgb(2, 128, 193);
+}
+html.darkmode .bg-sky-100 {
+  --darkreader-bg--tw-bg-opacity: 1;
+  background-color: rgb(33, 36, 37);
+}
 html.darkmode .text-gray-900 {
   --darkreader-text--tw-text-opacity: 1;
   color: rgb(214, 211, 205);
+}
+html.darkmode .invert {
+  --tw-invert: invert(100%);
 }
