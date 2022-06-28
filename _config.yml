@@ -1,6 +1,6 @@
 # This is the basic info about your site. Definitely change this.
-title: Jekyll Tailwind Template
-description: Basic Jekyll site template using Tailwind CSS with PostCSS
+title: Hrajeme Pro 2022
+description: 
 author: Kvído Potápník
 
 url: "" # the base hostname & protocol for your site, e.g. https://example.com
@@ -12,6 +12,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-postcss
+  - jekyll-spaceship
 
 # Unless you know what are you doing, you probably don't want to change anything below this line
 

@@ -7,7 +7,11 @@ module.exports = {
     ],
     darkMode: 'media',
     theme: {
-        extend: {},
+        extend: {
+            fontFamily: {
+                'staatliches': ['Staatliches', 'sans-serif']
+            },
+        },
     },
     variants: {
         extend: {},
