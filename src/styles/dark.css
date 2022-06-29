@@ -1,0 +1,273 @@
+/*
+                        _______
+                       /       \
+                      .==.    .==.
+                     ((  ))==((  ))
+                    / "=="    "=="\
+                   /____|| || ||___\
+       ________     ____    ________  ___    ___
+       |  ___  \   /    \   |  ___  \ |  |  /  /
+       |  |  \  \ /  /\  \  |  |  \  \|  |_/  /
+       |  |   )  /  /__\  \ |  |__/  /|  ___  \
+       |  |__/  /  ______  \|  ____  \|  |  \  \
+_______|_______/__/ ____ \__\__|___\__\__|___\__\____
+|  ___  \ |  ____/ /    \   |  ___  \ |  ____|  ___  \
+|  |  \  \|  |___ /  /\  \  |  |  \  \|  |___|  |  \  \
+|  |__/  /|  ____/  /__\  \ |  |   )  |  ____|  |__/  /
+|  ____  \|  |__/  ______  \|  |__/  /|  |___|  ____  \
+|__|   \__\____/__/      \__\_______/ |______|__|   \__\
+                https://darkreader.org
+*/
+
+/*! Dark reader generated CSS | Licensed under MIT https://github.com/darkreader/darkreader/blob/master/LICENSE */
+
+/* User-Agent Style */
+html.darkmode {
+  background-color: #181a1b !important;
+  color-scheme: dark !important;
+}
+html.darkmode,
+html.darkmode body {
+  background-color: #181a1b;
+  border-color: #736b5e;
+  color: #e8e6e3;
+}
+html.darkmode a {
+  color: #3391ff;
+}
+html.darkmode table {
+  border-color: #545b5e;
+}
+html.darkmode ::placeholder {
+  color: #b2aba1;
+}
+html.darkmode input:-webkit-autofill,
+html.darkmode textarea:-webkit-autofill,
+html.darkmode select:-webkit-autofill {
+  background-color: #404400 !important;
+  color: #e8e6e3 !important;
+}
+html.darkmode ::-webkit-scrollbar {
+  background-color: #202324;
+  color: #aba499;
+}
+html.darkmode ::-webkit-scrollbar-thumb {
+  background-color: #454a4d;
+}
+html.darkmode ::-webkit-scrollbar-thumb:hover {
+  background-color: #575e62;
+}
+html.darkmode ::-webkit-scrollbar-thumb:active {
+  background-color: #484e51;
+}
+html.darkmode ::-webkit-scrollbar-corner {
+  background-color: #181a1b;
+}
+html.darkmode * {
+  scrollbar-color: #454a4d #202324;
+}
+html.darkmode ::selection {
+  background-color: #004daa !important;
+  color: #e8e6e3 !important;
+}
+html.darkmode ::-moz-selection {
+  background-color: #004daa !important;
+  color: #e8e6e3 !important;
+}
+
+/* Variables Style */
+html.darkmode :root {
+  --darkreader-neutral-background: #131516;
+  --darkreader-neutral-text: #d8d4cf;
+  --darkreader-selection-background: #004daa;
+  --darkreader-selection-text: #e8e6e3;
+}
+
+/* Modified CSS */
+html.darkmode *,
+html.darkmode ::after,
+html.darkmode ::before {
+  border-color: rgb(54, 59, 61);
+}
+html.darkmode ::after,
+html.darkmode ::before {
+  --tw-content: "";
+}
+html.darkmode hr {
+  color: inherit;
+}
+html.darkmode abbr:where([title]) {
+  text-decoration-color: currentcolor;
+}
+html.darkmode a {
+  color: inherit;
+  text-decoration-color: inherit;
+}
+html.darkmode table {
+  border-color: inherit;
+}
+html.darkmode button,
+html.darkmode input,
+html.darkmode optgroup,
+html.darkmode select,
+html.darkmode textarea {
+  color: inherit;
+}
+html.darkmode [type="button"],
+html.darkmode [type="reset"],
+html.darkmode [type="submit"],
+html.darkmode button {
+  background-color: initial;
+  background-image: none;
+}
+html.darkmode :focus-visible {
+  outline-color: currentcolor;
+}
+html.darkmode :user-invalid {
+  box-shadow: none;
+}
+html.darkmode menu,
+html.darkmode ol,
+html.darkmode ul {
+  list-style-image: none;
+}
+html.darkmode input::placeholder,
+html.darkmode textarea::placeholder {
+  color: rgb(175, 169, 158);
+}
+html.darkmode input::placeholder,
+html.darkmode textarea::placeholder {
+  color: rgb(175, 169, 158);
+}
+html.darkmode *,
+html.darkmode ::after,
+html.darkmode ::before {
+  --tw-translate-x: 0;
+  --tw-translate-y: 0;
+  --tw-rotate: 0;
+  --tw-skew-x: 0;
+  --tw-skew-y: 0;
+  --tw-scale-x: 1;
+  --tw-scale-y: 1;
+  --tw-scroll-snap-strictness: proximity;
+  --tw-ring-offset-width: 0px;
+  --tw-ring-offset-color: #fff;
+  --tw-ring-color: #3b82f680;
+  --tw-ring-offset-shadow: 0 0 #0000;
+  --tw-ring-shadow: 0 0 #0000;
+  --tw-shadow: 0 0 #0000;
+  --tw-shadow-colored: 0 0 #0000;
+}
+html.darkmode .prose {
+  color: var(--darkreader-text--tw-prose-body);
+}
+html.darkmode .prose :where([class~="lead"]):not(:where([class~="not-prose"] *)) {
+  color: var(--darkreader-text--tw-prose-lead);
+}
+html.darkmode .prose :where(a):not(:where([class~="not-prose"] *)) {
+  color: var(--darkreader-text--tw-prose-links);
+  text-decoration-color: currentcolor;
+}
+html.darkmode .prose :where(strong):not(:where([class~="not-prose"] *)) {
+  color: var(--darkreader-text--tw-prose-bold);
+}
+html.darkmode .prose :where(ol > li):not(:where([class~="not-prose"] *))::marker {
+  color: var(--darkreader-text--tw-prose-counters);
+}
+html.darkmode .prose :where(ul > li):not(:where([class~="not-prose"] *))::marker {
+  color: var(--darkreader-text--tw-prose-bullets);
+}
+html.darkmode .prose :where(hr):not(:where([class~="not-prose"] *)) {
+  border-color: var(--darkreader-border--tw-prose-hr);
+}
+html.darkmode .prose :where(blockquote):not(:where([class~="not-prose"] *)) {
+  color: var(--darkreader-text--tw-prose-quotes);
+  border-left-color: var(--darkreader-border--tw-prose-quote-borders);
+}
+html.darkmode .prose :where(h1):not(:where([class~="not-prose"] *)) {
+  color: var(--darkreader-text--tw-prose-headings);
+}
+html.darkmode .prose :where(h2):not(:where([class~="not-prose"] *)) {
+  color: var(--darkreader-text--tw-prose-headings);
+}
+html.darkmode .prose :where(h3):not(:where([class~="not-prose"] *)) {
+  color: var(--darkreader-text--tw-prose-headings);
+}
+html.darkmode .prose :where(h4):not(:where([class~="not-prose"] *)) {
+  color: var(--darkreader-text--tw-prose-headings);
+}
+html.darkmode .prose :where(figcaption):not(:where([class~="not-prose"] *)) {
+  color: var(--darkreader-text--tw-prose-captions);
+}
+html.darkmode .prose :where(code):not(:where([class~="not-prose"] *)) {
+  color: var(--darkreader-text--tw-prose-code);
+}
+html.darkmode .prose :where(a code):not(:where([class~="not-prose"] *)) {
+  color: var(--darkreader-text--tw-prose-links);
+}
+html.darkmode .prose :where(pre):not(:where([class~="not-prose"] *)) {
+  color: var(--darkreader-text--tw-prose-pre-code);
+  background-color: var(--darkreader-bg--tw-prose-pre-bg);
+}
+html.darkmode .prose :where(pre code):not(:where([class~="not-prose"] *)) {
+  background-color: initial;
+  color: inherit;
+}
+html.darkmode .prose :where(thead):not(:where([class~="not-prose"] *)) {
+  border-bottom-color: var(--darkreader-border--tw-prose-th-borders);
+}
+html.darkmode .prose :where(thead th):not(:where([class~="not-prose"] *)) {
+  color: var(--darkreader-text--tw-prose-headings);
+}
+html.darkmode .prose :where(tbody tr):not(:where([class~="not-prose"] *)) {
+  border-bottom-color: var(--darkreader-border--tw-prose-td-borders);
+}
+html.darkmode .prose {
+  --darkreader-text--tw-prose-body: #bdb7af;
+  --darkreader-text--tw-prose-headings: #d6d3cd;
+  --darkreader-text--tw-prose-lead: #b1aaa0;
+  --darkreader-text--tw-prose-links: #d6d3cd;
+  --darkreader-text--tw-prose-bold: #d6d3cd;
+  --darkreader-text--tw-prose-counters: #9e9589;
+  --darkreader-text--tw-prose-bullets: #cecac3;
+  --darkreader-border--tw-prose-hr: #363b3d;
+  --darkreader-text--tw-prose-quotes: #d6d3cd;
+  --darkreader-border--tw-prose-quote-borders: #363b3d;
+  --darkreader-text--tw-prose-captions: #9e9589;
+  --darkreader-text--tw-prose-code: #d6d3cd;
+  --darkreader-text--tw-prose-pre-code: #d9d6d1;
+  --darkreader-bg--tw-prose-pre-bg: #19212c;
+  --darkreader-border--tw-prose-th-borders: #3c4143;
+  --darkreader-border--tw-prose-td-borders: #363b3d;
+  --tw-prose-invert-body: #d1d5db;
+  --tw-prose-invert-headings: #fff;
+  --tw-prose-invert-lead: #9ca3af;
+  --tw-prose-invert-links: #fff;
+  --tw-prose-invert-bold: #fff;
+  --tw-prose-invert-counters: #9ca3af;
+  --tw-prose-invert-bullets: #4b5563;
+  --tw-prose-invert-hr: #374151;
+  --tw-prose-invert-quotes: #f3f4f6;
+  --tw-prose-invert-quote-borders: #374151;
+  --tw-prose-invert-captions: #9ca3af;
+  --tw-prose-invert-code: #fff;
+  --tw-prose-invert-pre-code: #d1d5db;
+  --tw-prose-invert-pre-bg: #00000080;
+  --tw-prose-invert-th-borders: #4b5563;
+  --tw-prose-invert-td-borders: #374151;
+}
+html.darkmode .border-sky-600 {
+  --darkreader-border--tw-border-opacity: 1;
+  border-color: rgb(2, 128, 193);
+}
+html.darkmode .bg-sky-100 {
+  --darkreader-bg--tw-bg-opacity: 1;
+  background-color: rgb(33, 36, 37);
+}
+html.darkmode .text-gray-900 {
+  --darkreader-text--tw-text-opacity: 1;
+  color: rgb(214, 211, 205);
+}
+html.darkmode .invert {
+  --tw-invert: invert(100%);
+}
