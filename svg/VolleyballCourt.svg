@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd" viewBox="0 0 1600 2500"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:cc="http://creativecommons.org/ns#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:svg="http://www.w3.org/2000/svg"
+  width="16cm"
+  height="25cm">
+ <metadata>
+   <rdf:RDF>
+     <cc:Work rdf:about="">
+       <dc:format>image/svg+xml</dc:format>
+       <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+       <dc:title>Volleybal court</dc:title>
+       <dc:date>2016-11-30</dc:date>
+       <dc:creator>
+         <cc:Agent>
+           <dc:title>David Martín</dc:title>
+         </cc:Agent>
+       </dc:creator>
+       <dc:source>http://commons.wikimedia.org</dc:source>
+       <dc:description>Volleyball court with new coach restriction line</dc:description>
+     </cc:Work>
+   </rdf:RDF>
+ </metadata>
+ <path fill="#61995E" d="M0 0h1506v2344H0"/>
+ <path fill="#E19B4E" stroke="#fff" stroke-width="9.4" d="M333 333h834v1678H333z"/>
+ <path fill="#fff" d="M197 891h14v9h-14m33-9h14v9h-14m-66-9h14v9h-14m99-9h14v9h-14m32-9h14v9h-14m1008-9h-14v9h14m-33-9h-14v9h14m66-9h-14v9h14m-98-9h-15v9h15m-33-9h-14v9h14m-42-605v14h9v-14m-844 0v14h10v-14m-10 1753v-14h10v14m825 0v-14h9v14m-975-604h14v9h-14m33-9h14v9h-14m-66-9h14v9h-14m99-9h14v9h-14m32-9h14v9h-14m1008-9h-14v9h14m-33-9h-14v9h14m66-9h-14v9h14m-98-9h-15v9h15m-33-9h-14v9h14m-872-286h834v10H333m0 267h834v9H333m0-562h834v9H333m1003 605v14h9v-14m-9 33v14h9v-14m-9-66v14h9v-14m-9 99v14h9v-14m-9 34v14h9v-14m-9 33v14h9v-14m-9 33v14h9v-14m-9 33v14h9v-14m-9 33v14h9v-14m-9 33v14h9v-14m-9 33v14h9v-14m-9 33v14h9v-14m-9 33v14h9v-14m-9 33v14h9v-14m-9 33v14h9v-14m-9 33v15h9v-15m-9 34v14h9v-14m-9-1641v14h9v-14m-9 33v14h9v-14m-9-66v14h9v-14m-9 99v14h9v-14m-9 33v15h9v-15m-9 34v14h9v-14m-9 33v14h9v-14m-9 33v14h9v-14m-9 33v14h9v-14m-9 33v14h9v-14m-9 33v14h9v-14m-9 33v14h9v-14m-9 33v14h9v-14m-9 33v14h9v-14m-9 33v14h9v-14m-9 33v15h9v-15m-9 34v14h9v-14"/>
+ <path fill="none" stroke="#000" stroke-width="4.7" stroke-dasharray="56.2 56.2" d="M49 49h1402v2246H49z"/>
+ <path d="M1220 1192v241-241zm0 0z"/>
+ <path fill="none" stroke="#000" stroke-width="4.7" d="M1220 1192v241m0-241z"/>
+ <text x="1284" y="1332" font-size="52.9" font-family="Arial">3 m</text>
+ <path d="M1208 1410l12 30 11-30c-5 3-16 4-23 0zm0-195l12-30 11 30c-5-3-16-4-23 0zm12-304v241-241zm0 0z"/>
+ <path fill="none" stroke="#000" stroke-width="4.7" d="M1220 911v241m0-241z"/>
+ <text x="1284" y="1050" font-size="52.9" font-family="Arial">3 m</text>
+ <path d="M1208 1129l12 30 11-30c-5 3-16 3-23 0zm0-195l12-31 11 31c-5-3-16-4-23 0zM280 348v804-804zm0 0z"/>
+ <path fill="none" stroke="#000" stroke-width="4.7" d="M280 348v804m0-804z"/>
+ <text x="148" y="760" font-size="52.9" font-family="Arial">9 m</text>
+ <path d="M269 371l11-30 12 30c-6-3-16-3-23 0zm0 758l11 30 12-30c-6 3-16 3-23 0zm11 63v803-803zm0 0z"/>
+ <path fill="none" stroke="#000" stroke-width="4.7" d="M280 1192v803m0-803z"/>
+ <text x="148" y="1615" font-size="52.9" font-family="Arial">9 m</text>
+ <path d="M269 1215l11-30 12 30c-6-3-16-4-23 0zm0 757l11 31 12-31c-6 3-16 4-23 0zm79 102h804-804zm0 0z"/>
+ <path fill="none" stroke="#000" stroke-width="4.7" d="M348 2074h804m-804 0z"/>
+ <text x="752" y="2132" font-size="52.9" font-family="Arial">9 m</text>
+ <path d="M371 2062l-30 12 30 11c-3-5-3-16 0-23zm758 23l30-11-30-12c3 6 3 17 0 23zM423 67v241V67zm0 0z"/>
+ <path fill="none" stroke="#000" stroke-width="4.7" d="M423 67v241m0-241z"/>
+ <text x="486" y="208" font-size="52.9" font-family="Arial">&gt; 3 - 6.5 m</text>
+ <path d="M411 90l12-30 11 30c-6-3-16-4-23 0zm0 195l12 30 11-30c-6 3-16 4-23 0zm1022 1789h-241 241zm0 0z"/>
+ <path fill="none" stroke="#000" stroke-width="4.7" d="M1433 2074h-241m241 0z"/>
+ <text x="1222" y="2136" font-size="52.9" font-family="Arial">&gt; 3 - 5 m</text>
+ <path d="M1215 2062l-30 12 30 11c-3-5-4-16 0-23zm195 23l30-11-30-12c3 6 4 17 0 23zm-91-1748h-127 127zm0 0z"/>
+ <path fill="none" stroke="#000" stroke-width="4.7" d="M1319 337h-127m127 0z"/>
+ <text x="1185" y="276" font-size="52.9" font-family="Arial">1.75 m</text>
+ <path d="M1210 326l-31 11 31 12c-3-6-4-16 0-23zm94 23l31-12-31-11c3 5 4 16 0 23z"/>
+</svg>

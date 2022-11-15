@@ -1,4 +1,4 @@
 #!/bin/bash
 
 npm run build
-rsync -azP build/* root@felakspot.cz:/srv/www/hrajemepro.radeksoft.cz
+rsync -azP build/* root@chamik.eu:/srv/www/hrajemepro.radeksoft.cz
