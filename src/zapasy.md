@@ -29,3 +29,4 @@ permalink: /zapasy/
 
 {% include zapas.html ti="18" tim="12:13" a="Septima" b="3.B" c="Kvinta" d="Výběr NG" e="" f="" NOW=1 %}
 {% include zapas.html ti="19" tim="12:27" a="" b="" c="3.A" d="GJP Praha" e="4.B" f="Oktáva" %}
+{% include zapas.html ti="19" tim="12:41" a="Septima" b="Výběr NG" c="" d="" e="" f="" %}
