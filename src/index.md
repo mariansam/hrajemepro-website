@@ -2,4 +2,7 @@
 layout: page
 ---
 
-Vítáme vás na letošním ročníku Hrajeme Pro!
+Vítejte na letošním ročníku **Hrajeme Pro**!
+
+### Aktuality
+---
