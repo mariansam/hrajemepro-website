@@ -13,8 +13,8 @@ permalink: /zapasy/
 {% include zapas.html ti="4" tim="08:57" a="Kvinta" b="2.B" c="1.B" d="Výběr NG" e="Oktáva" f="GJP Praha" %}
 {% include zapas.html ti="5" tim="09:11" a="2.A" b="4.A" c="3.B" d="Sexta" e="4.B" f="3.A" %}
 {% include zapas.html ti="6" tim="09:25" a="2.B" b="Reportéři ČT" c="1.A" d="Kvinta" e="Oktáva" f="1.B" %}
-{% include zapas.html ti="7" tim="09:39" a="4.A" b="Výběr NG" c="GJP Praha" d="3.B" e="Sexta" f="2.A" NOW=1 %}
-{% include zapas.html ti="8" tim="09:53" a="Septima" b="2.B" c="Kvinta" d="4.B" e="Reportéři ČT" f="1.A" %}
+{% include zapas.html ti="7" tim="09:39" a="4.A" b="Výběr NG" c="GJP Praha" d="3.B" e="Sexta" f="2.A" %}
+{% include zapas.html ti="8" tim="09:53" a="Septima" b="2.B" c="Kvinta" d="4.B" e="Reportéři ČT" f="1.A" NOW=1 %}
 {% include zapas.html ti="9" tim="10:07" a="1.B" b="4.A" c="3.B" d="Oktáva" e="Výběr NG" f="Sexta" %}
 {% include zapas.html ti="10" tim="10:21" a="2.A" b="GJP Praha" c="3.A" d="Kvinta" e="1.A" f="Septima" %}
 {% include zapas.html ti="11" tim="10:35" a="4.B" b="Reportéři ČT" c="3.B" d="1.B" e="Sexta" f="4.A" %}
